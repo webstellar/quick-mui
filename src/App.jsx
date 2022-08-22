@@ -9,7 +9,15 @@ import {
   Toolbar,
   Container,
 } from "@mui/material";
-import { CustomizedPhotoCamera, CustomizedGrid, CustomizedCard, CustomizedCardMedia, CustomizedCardContent, CustomizedContainer, CustomizedFooter } from "./Styles";
+import {
+  CustomizedPhotoCamera,
+  CustomizedGrid,
+  CustomizedCard,
+  CustomizedCardMedia,
+  CustomizedCardContent,
+  CustomizedContainer,
+  CustomizedFooter
+} from "./Styles";
 
 const App = () => {
 

@@ -1,17 +1,5 @@
 import * as React from "react";
-import {
-  Typography,
-  AppBar,
-  Card,
-  CardActions,
-  CardContent,
-  CardMedia,
-  CssBaseline,
-  Button,
-  Grid,
-  Toolbar,
-  Container,
-} from "@mui/material";
+import { Card, CardContent, CardMedia, Grid, Container } from "@mui/material";
 import { PhotoCamera } from "@mui/icons-material";
 import { styled } from "@mui/material/styles";
 
